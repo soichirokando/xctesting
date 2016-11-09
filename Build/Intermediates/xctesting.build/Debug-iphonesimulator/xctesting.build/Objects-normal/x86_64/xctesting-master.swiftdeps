@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "ef8c2fbc1aad2b68a53760be642313c5"
+build_time: [531983845, 508413000]
+inputs:
+  "/Users/kando/Desktop/nri/xctesting/xctesting/ViewController.swift": [531983731, 0]
+  "/Users/kando/Desktop/nri/xctesting/xctesting/AppDelegate.swift": [531983731, 0]
+  "/Users/kando/Desktop/nri/xctesting/xctesting/User.swift": [531983813, 0]

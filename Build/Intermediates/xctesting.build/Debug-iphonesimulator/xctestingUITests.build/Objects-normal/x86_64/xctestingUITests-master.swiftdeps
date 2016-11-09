@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "e074fef9e912e1c71c607a10bac8e7ae"
+build_time: [531984181, 799288000]
+inputs:
+  "/Users/kando/Desktop/nri/xctesting/xctestingUITests/xctestingUITests.swift": [531983735, 0]
